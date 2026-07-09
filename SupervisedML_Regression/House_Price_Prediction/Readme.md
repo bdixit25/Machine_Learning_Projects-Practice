@@ -52,7 +52,6 @@ To build the PDF report:
 ```bash
 cd reports
 pdflatex -interaction=nonstopmode main.tex
-pdflatex -interaction=nonstopmode main.tex
 ```
 
 Ensure that a LaTeX distribution such as TeX Live is installed.
