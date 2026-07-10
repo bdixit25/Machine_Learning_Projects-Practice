@@ -152,8 +152,9 @@ GridSearchCV
 Show:
 Best hyperparameters
 Performance
-06_model_comparison.ipynb
 
+
+06_model_comparison.ipynb
 Final comparison table
 Model	MAE	RMSE	R²
 Linear			
